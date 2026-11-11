@@ -1,11 +1,11 @@
 #💫 Hi 👋, I'm Jayanto Sarker
 A passionate Data Science Student || Aspiring Data Analyst || Python & SQL Enthusiast from Bangladesh 🇧🇩
 
-📧 **Email Me:** ✉️ jayantosarker1@gmail.com for collaboration, projects, or anything else! 😊
-- 🌱 **I'm currently learning:** Python, SQL, Machine Learning, Deep Learning, and Data Analytics.
-- 👯 **I'm looking to collaborate on:** Data Analysis, Machine Learning, and AI-based projects.
+📧 **Email Me:** ✉️ jayantosarker1@gmail.com for collaboration, projects or anything else! 😊
+- 🌱 **I'm currently learning:** Python, SQL, Machine Learning, Deep Learning and Data Analytics.
+- 👯 **I'm looking to collaborate on:** Data Analysis, Machine Learning and AI-based projects.
 - 🤔 **I'm looking for help with:** Improving my skills in Machine Learning and real-world Data Analytics.
-- 💬 **Ask me about:** Python, SQL, Excel, Pandas, Data Cleaning, and Data Visualization.
+- 💬 **Ask me about:** Python, SQL, Excel, Pandas, Data Cleaning and Data Visualization.
 - ⚡ **Fun fact:** I love turning raw data into meaningful insights! 📊
 
 ## 🌐 Socials:
